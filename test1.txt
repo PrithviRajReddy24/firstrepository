@@ -1,0 +1,4 @@
+ Hello from git cli 
+ Making changes form cli after cloning the repo into my local machine
+ 07-06-2024
+ print("Hello World!")
