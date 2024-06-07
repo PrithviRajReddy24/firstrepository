@@ -5,6 +5,3 @@ import matplotlib.pyplot as plt
 import keras as ks
 import tensorflow
 %mtplotlib inline
-import warnings
-warnings.ignore("warnings")
-import metrics
