@@ -4,4 +4,3 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import keras as ks
 import tensorflow
-%mtplotlib inline
